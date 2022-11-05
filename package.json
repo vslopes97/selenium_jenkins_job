@@ -23,7 +23,7 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "protractor-jasmine2-html-reporter": "0.0.7"
   }
 }
